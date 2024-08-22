@@ -35,7 +35,7 @@ Contributions are what make the open-source community such a powerful place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [email@email.com](mailto:email@email.com)
+Your Name - nils.karges@uni-wuerzburg.de
 
 Project Link: [https://github.com/Doutrespace/SoundLEAF](https://github.com/Doutrespace/SoundLEAF)
 
